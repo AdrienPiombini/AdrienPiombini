@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 
 
-I'm a passionate backend developer with expertise in Java, SQL, and TypeScript. I thrive on building robust, efficient systems that power the digital world. Currently, I'm exploring the exciting realms of Go programming language, constantly expanding my skill set to embrace new technologies.
+I'm a passionate __backend developer__ with expertise in Java, SQL, and TypeScript. I thrive on building robust, efficient systems that power the digital world. Currently, I'm exploring the exciting realms of Go programming language, constantly expanding my skill set to embrace new technologies.
 
-What I'm Into:
-Languages: Java, SQL, TypeScript
-Exploring: Go (Golang)
+#### What I'm Into:
+Languages: __Java__, __SQL__, __TypeScript__
+Exploring: __Go__ (Golang)
 Interests: Cybersecurity, AI, Blockchain
-What You'll Find Here:
+
+#### What You'll Find Here:
 📁 Projects: Dive into my repositories to see some of my latest creations and contributions.
 👥 Collaboration: I'm always open to collaborations and discussions on interesting projects. Feel free to reach out!
 
