@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello there! Welcome to my GitHub profile! 🚀
 
 <!--
 **AdrienPiombini/AdrienPiombini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hello there! Welcome to my GitHub profile! 🚀
+
 
 I'm a passionate backend developer with expertise in Java, SQL, and TypeScript. I thrive on building robust, efficient systems that power the digital world. Currently, I'm exploring the exciting realms of Go programming language, constantly expanding my skill set to embrace new technologies.
 
