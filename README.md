@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm a passionate __backend developer__ with expertise in Java, SQL, and TypeScript. I thrive on building robust, efficient systems that power the digital world. Currently, I'm exploring the exciting realms of Go programming language, constantly expanding my skill set to embrace new technologies.
 
 #### What I'm Into:
-Languages:  __TypeScript__, __Java__, __SQL__, __Node.js
+Languages:  __TypeScript__, __Java__, __SQL__, __Node.js__
 Exploring: __Go__ (Golang)
 Interests: Cybersecurity, AI, __Blockchain__
 
