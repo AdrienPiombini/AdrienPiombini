@@ -21,7 +21,9 @@ I'm a passionate __backend developer__ with expertise in Java, SQL, and TypeScri
 
 #### What I'm Into:
 Languages:  __TypeScript__, __Java__, __SQL__, __Node.js__
+
 Exploring: __Go__ (Golang)
+
 Interests: Cybersecurity, AI, __Blockchain__
 
 #### What You'll Find Here:
